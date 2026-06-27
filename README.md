@@ -35,9 +35,9 @@
   ### 📺 Güncel Oynatma Listesi
   *Videoları izlemek için aşağıdaki görsele tıklayabilirsiniz.*
 
-  <!-- Tıklandığında Doğrudan YouTube Video Listesine Giden Alan -->
+  <!-- Tıklandığında YouTube Oynatma Listesine Giden Doğru Resim Alanı -->
   <a href="https://www.youtube.com/playlist?list=PLybU7OTioIXmOjoyczXoOiPb23laSHZMe">
-    <img src="1782542305635.png" width="400" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" alt="YouTube Oynatma Listesini İzle">
+    <img src="https://raw.githubusercontent.com/TasarimYasam/TasarimYasam.github.io/main/images/1782542305635.png" width="400" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" alt="YouTube Oynatma Listesini İzle">
   </a>
 
 </div>
